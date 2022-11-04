@@ -1,0 +1,73 @@
+body {margin: 20px;
+    background-color: rgb(183, 247, 119);
+    }
+    
+    .topnav {
+      overflow: hidden;
+      background-color: none;
+      width:100%;
+     
+      }
+    
+    .topnav a {
+      float: left;
+      color: #f2f2f2;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 17px;
+      
+    }
+    
+    .topnav a:hover {
+      background-color: tomato;
+      color: blue;
+    }
+    
+    .topnav a.active {
+      background-color: lime;
+      color: blue;
+      
+      
+    }
+    h1 {
+        font-family:Lobster;
+      }
+	  h2 {
+        font-family:Times New Roman;
+      }
+    .fa {
+      padding: 14px; 16px;
+      font-size: 17px;
+      width: 30px;
+      text-align: center;
+      text-decoration: none;
+      margin: 5px 2px;
+     
+    }
+    
+    .fa:hover {
+        opacity: 0.5;
+    }
+    .fa-facebook {
+      background: rgb(7, 83, 248);
+      color: white;
+    }
+    
+    .fa-twitter {
+      background: #55ACEE;
+      color: white;
+    }
+    .fa-envelope{
+    background: none;
+      color:none;
+      }
+    .fa-whatsapp{
+    background-color: none;
+      color: white;}
+      .navbar {
+        overflow: hidden;
+        background-color: rgb(183, 247, 119;
+      }
+      
+      
